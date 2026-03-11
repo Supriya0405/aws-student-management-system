@@ -45,15 +45,31 @@ User → Internet → EC2 Web Server → RDS Database
 ![Architecture](screenshots/architecture.png)
 
 ### EC2 Instance
-![EC2](screenshots/ec2.png)
+<img width="1920" height="1080" alt="ec2" src="https://github.com/user-attachments/assets/a0608e9e-dc75-4177-b19f-77fe7ebfeb01" />
+
+
+<img width="1920" height="1080" alt="instance" src="https://github.com/user-attachments/assets/2f00f92c-d875-4aa9-bfb5-8f8538d51bf4" />
+
 
 ### Website Running
-![Website](screenshots/webapp.png)
+
+<img width="1920" height="1080" alt="web2 (2)" src="https://github.com/user-attachments/assets/67ee930b-6c97-4d7e-936e-9671a2684a29" />
+<img width="1920" height="1080" alt="web4" src="https://github.com/user-attachments/assets/5d469ca1-7cf4-469a-b01d-81b61d38ab0f" />
+<img width="1920" height="1080" alt="web3" src="https://github.com/user-attachments/assets/4eabc05f-7d01-4fd9-aa06-734912753a76" />
+<img width="1920" height="1080" alt="web2 (1)" src="https://github.com/user-attachments/assets/eb25ba77-182c-4dcb-86ce-b3b82a28746b" />
 
 ### RDS Database
-![RDS](screenshots/rds.png)
+
+
+<img width="1920" height="1080" alt="rds database" src="https://github.com/user-attachments/assets/832b973e-b654-44db-8f28-ecbf6ab72bdf" />
+<img width="1584" height="484" alt="Screenshot 2026-03-11 232143" src="https://github.com/user-attachments/assets/fa555f8a-cda3-48a9-9c80-317cf1678b72" />
+<img width="1607" height="516" alt="Screenshot 2026-03-11 232136" src="https://github.com/user-attachments/assets/d1143acc-5fb9-4952-abb6-991e184413d4" />
+<img width="1920" height="1080" alt="Screenshot 2026-03-11 232102" src="https://github.com/user-attachments/assets/ceea51c9-4465-4709-8a32-d558b1fecf07" />
+<img width="1920" height="1080" alt="security grp" src="https://github.com/user-attachments/assets/f0b65817-e2b6-469f-9a85-459c9f851744" />
+<img width="1920" height="1080" alt="database table" src="https://github.com/user-attachments/assets/572cce45-7e9d-4efb-98b6-b787b5f7ddb0" />
 
 ## How to Run
+
 
 1. Launch EC2 instance
 2. Install Apache and PHP
@@ -64,4 +80,4 @@ User → Internet → EC2 Web Server → RDS Database
 ## Author
 
 Supriya
-Cloud Computing Enthusiast
+Cloud Developer
