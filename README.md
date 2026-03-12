@@ -56,9 +56,10 @@ User → Internet → EC2 Web Server → RDS Database
 ### Website Running
 
 <img width="1920" height="1080" alt="web2 (2)" src="https://github.com/user-attachments/assets/67ee930b-6c97-4d7e-936e-9671a2684a29" />
-<img width="1920" height="1080" alt="web4" src="https://github.com/user-attachments/assets/5d469ca1-7cf4-469a-b01d-81b61d38ab0f" />
-<img width="1920" height="1080" alt="web3" src="https://github.com/user-attachments/assets/4eabc05f-7d01-4fd9-aa06-734912753a76" />
-<img width="1920" height="1080" alt="web2 (1)" src="https://github.com/user-attachments/assets/eb25ba77-182c-4dcb-86ce-b3b82a28746b" />
+
+<img width="1920" height="1080" alt="Screenshot 2026-03-12 090556" src="https://github.com/user-attachments/assets/9a5e69ba-c65e-4e48-81da-f41d7f86dfa3" />
+<img width="1920" height="1080" alt="Screenshot 2026-03-12 090545" src="https://github.com/user-attachments/assets/671df6d4-f78d-4a07-babb-768e48618f15" />
+
 
 ### RDS Database
 
@@ -68,7 +69,8 @@ User → Internet → EC2 Web Server → RDS Database
 <img width="1607" height="516" alt="Screenshot 2026-03-11 232136" src="https://github.com/user-attachments/assets/d1143acc-5fb9-4952-abb6-991e184413d4" />
 <img width="1920" height="1080" alt="Screenshot 2026-03-11 232102" src="https://github.com/user-attachments/assets/ceea51c9-4465-4709-8a32-d558b1fecf07" />
 <img width="1920" height="1080" alt="security grp" src="https://github.com/user-attachments/assets/f0b65817-e2b6-469f-9a85-459c9f851744" />
-<img width="1920" height="1080" alt="database table" src="https://github.com/user-attachments/assets/572cce45-7e9d-4efb-98b6-b787b5f7ddb0" />
+<img width="687" height="462" alt="Screenshot 2026-03-12 090813" src="https://github.com/user-attachments/assets/f3c838b1-e7d9-4b19-b9bf-66d6fe851f87" />
+
 
 ## How to Run
 
