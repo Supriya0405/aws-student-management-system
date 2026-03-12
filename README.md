@@ -42,7 +42,8 @@ User → Internet → EC2 Web Server → RDS Database
 ## Screenshots
 
 ### Architecture Diagram
-<img width="1024" height="1536" alt="Student management system on AWS architecture" src="https://github.com/user-attachments/assets/384f13b5-490b-42b9-8fa8-e41d06d86579" />
+<img width="834" height="806" alt="Screenshot 2026-03-12 093546" src="https://github.com/user-attachments/assets/f1a4e3a9-dc94-4014-97ab-c99e1526604b" />
+
 
 
 
